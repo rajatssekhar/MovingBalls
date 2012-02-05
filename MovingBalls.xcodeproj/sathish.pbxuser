@@ -1,0 +1,185 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* MovingBallsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1170}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 732}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* MovingBalls */ = {
+		activeExec = 0;
+		executables = (
+			B8060D6312F5ACF5006292A2 /* MovingBalls */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* MovingBallsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 455}}";
+			sepNavSelRange = "{0, 647}";
+			sepNavVisRange = "{0, 640}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* MovingBallsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1937}}";
+			sepNavSelRange = "{2735, 0}";
+			sepNavVisRange = "{2674, 587}";
+			sepNavWindowFrame = "{{38, 194}, {750, 558}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = B8060D6312F5ACF5006292A2 /* MovingBalls */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MovingBalls */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* MovingBalls */,
+		);
+		codeSenseManager = B8060D7712F5AD17006292A2 /* Code sense */;
+		executables = (
+			B8060D6312F5ACF5006292A2 /* MovingBalls */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 321735396;
+			PBXWorkspaceStateSaveDate = 321735396;
+		};
+		perUserProjectItems = {
+			B8060ED012F5D7BA006292A2 /* PBXTextBookmark */ = B8060ED012F5D7BA006292A2 /* PBXTextBookmark */;
+			B8060ED112F5D7BA006292A2 /* PBXTextBookmark */ = B8060ED112F5D7BA006292A2 /* PBXTextBookmark */;
+			B8060ED312F5D7BA006292A2 /* PBXBookmark */ = B8060ED312F5D7BA006292A2 /* PBXBookmark */;
+			B8554768132D4BB500C2FBEC /* PBXTextBookmark */ = B8554768132D4BB500C2FBEC /* PBXTextBookmark */;
+			B8C0F7A1131AA303007397E8 /* PBXTextBookmark */ = B8C0F7A1131AA303007397E8 /* PBXTextBookmark */;
+			B8D9EAE012F9C810007FFA89 /* PBXTextBookmark */ = B8D9EAE012F9C810007FFA89 /* PBXTextBookmark */;
+		};
+		sourceControlManager = B8060D7612F5AD17006292A2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	B8060D6312F5ACF5006292A2 /* MovingBalls */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MovingBalls;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	B8060D7612F5AD17006292A2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B8060D7712F5AD17006292A2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B8060ED012F5D7BA006292A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MovingBallsAppDelegate.m */;
+		name = "MovingBallsAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 732;
+		vrLoc = 0;
+	};
+	B8060ED112F5D7BA006292A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B8060ED212F5D7BA006292A2 /* stdlib.h */;
+		name = "stdlib.h: 176";
+		rLen = 17;
+		rLoc = 5825;
+		rType = 0;
+		vrLen = 1706;
+		vrLoc = 479;
+	};
+	B8060ED212F5D7BA006292A2 /* stdlib.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = stdlib.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdlib.h;
+		sourceTree = "<absolute>";
+	};
+	B8060ED312F5D7BA006292A2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = B8060DD312F5AF5C006292A2 /* ball_green.png */;
+	};
+	B8554768132D4BB500C2FBEC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MovingBallsViewController.m */;
+		name = "MovingBallsViewController.m: 112";
+		rLen = 0;
+		rLoc = 2735;
+		rType = 0;
+		vrLen = 587;
+		vrLoc = 2674;
+	};
+	B8C0F7A1131AA303007397E8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MovingBallsViewController.m */;
+		name = "MovingBallsViewController.m: 60";
+		rLen = 138;
+		rLoc = 1471;
+		rType = 0;
+		vrLen = 621;
+		vrLoc = 2674;
+	};
+	B8D9EAE012F9C810007FFA89 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MovingBallsViewController.h */;
+		name = "MovingBallsViewController.h: 1";
+		rLen = 647;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 640;
+		vrLoc = 0;
+	};
+}
